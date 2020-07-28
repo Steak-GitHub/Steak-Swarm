@@ -1,4 +1,5 @@
 local Hint = Instance.new("Hint", workspace)
+Hint.Name = "Hint"
 Hint.Text = "Loading"
 --[[
 IronBrew:tm: obfuscation; Version 2.7.2
